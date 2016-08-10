@@ -16,9 +16,14 @@ function litingting() {
 
 function xiayu(){
     console.log('xiayu');
+    console.log('xixi');
 }
 
 function tyb(){
   console.log("tyb");
+  aaa;
 }
 
+function tyb2() {
+  ddd;
+}
