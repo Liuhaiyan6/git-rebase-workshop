@@ -8,5 +8,6 @@ function xiayu(){
 
 function tyb(){
   console.log("tyb");
+  aaa;
 }
 
