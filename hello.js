@@ -8,6 +8,7 @@ console.log("anfen")
 
 function xiayu(){
     console.log('xiayu');
+    console.log('xixi');
 }
 
 function tyb(){
