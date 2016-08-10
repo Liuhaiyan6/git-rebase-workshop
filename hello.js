@@ -7,6 +7,6 @@ function xiayu(){
 }
 
 function tyb(){
-  "use strict";
   console.log("tyb");
 }
+
