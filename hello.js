@@ -16,3 +16,6 @@ function tyb(){
   aaa;
 }
 
+function tyb2() {
+  ddd;
+}
