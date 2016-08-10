@@ -4,6 +4,7 @@ function() {
 
 function xiayu(){
     console.log('xiayu');
+    console.log('gogo');
 }
 
 function tyb(){
