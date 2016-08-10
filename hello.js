@@ -1,5 +1,11 @@
 function () {
+
+function a() {
   console.log('hello world!');
+}
+function an()
+{
+console.log("anfen")
 }
 
 function litingting() {
@@ -13,6 +19,6 @@ function xiayu(){
 }
 
 function tyb(){
-  "use strict";
   console.log("tyb");
 }
+
