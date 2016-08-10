@@ -3,5 +3,10 @@ function() {
 }
 
 function xiayu(){
-	console.log('xiayu');
+    console.log('xiayu');
+}
+
+function tyb(){
+  "use strict";
+  console.log("tyb");
 }
