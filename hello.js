@@ -5,7 +5,12 @@ function an()
 {
 console.log("anfen")
 }
+
+function xiayu(){
+    console.log('xiayu');
+}
+
 function tyb(){
-  "use strict";
   console.log("tyb");
 }
+
